@@ -1,0 +1,2 @@
+module recusividade_2 {
+}
